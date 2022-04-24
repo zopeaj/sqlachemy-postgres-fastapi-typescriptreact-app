@@ -1,0 +1,1 @@
+# sqlachemy-postgres-fastapi-typescriptreact-app
